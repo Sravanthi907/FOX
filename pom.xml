@@ -133,10 +133,10 @@
 					<systemPropertiesFile>${systemPropertiesFile}</systemPropertiesFile>
 					<includes>
 					
-					<include>**/ShowsPage.java</include>
-<!-- 				<include>**/HomePage.java</include> 	
+					
+ 				<include>**/HomePage.java</include> 	
 					<include>**/ShowDuplicates.java</include> 
-					<include>**/ShowsPage.java</include>  -->
+					<include>**/ShowsPage.java</include>  
 					
 					</includes>
 					<argLine>-Xmx512m</argLine>
